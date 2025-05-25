@@ -1,6 +1,6 @@
-# 👋 Hi, I'm atommnava
+# This is Atom Alexander M. Nava
 
-Welcome to my GitHub profile!
+Welcome, Pal!
 
 ---
 
@@ -22,7 +22,7 @@ Welcome to my GitHub profile!
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original-wordmark.svg" alt="Atom" width="60" height="60"/><br>
-  <strong>Atom</strong> is my favorite text editor!
+  <strong>Atom</strong> is obviusly my favorite text editor!
 </p>
 
 ---
