@@ -24,9 +24,4 @@ Welcome, Pal!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original-wordmark.svg" alt="Atom" width="60" height="60"/><br>
   <strong>Atom</strong> is obviusly my favorite text editor!
 </p>
-
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atommnava&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
