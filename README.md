@@ -18,10 +18,9 @@ Welcome, Pal!
 
 ---
 
-## 💻 Favourite Text Editor
+## 💻 Favourite Text Editor 
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original-wordmark.svg" alt="Atom" width="60" height="60"/><br>
-  <strong>Atom</strong> is obviusly my favorite text editor!
 </p>
----
+
