@@ -1,8 +1,7 @@
-# 👋 Hi, I'm Atom Alexander M. Nava  
+# Atom Alexander M. Nava  
 
 Welcome, Pal! ✨  
-Apasionado por la tecnología, la programación y el aprendizaje constante.  
-Me gusta crear soluciones con diferentes lenguajes y herramientas, desde el desarrollo web hasta el backend y bases de datos. 🚀  
+«Let us create the future» 🚀  
 
 ---
 
