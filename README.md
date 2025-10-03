@@ -17,7 +17,7 @@ Me gusta crear soluciones con diferentes lenguajes y herramientas, desde el desa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flask.svg" alt="Flask" width="50" height="50"/>
 </p>  
 
 ---
@@ -27,15 +27,6 @@ Me gusta crear soluciones con diferentes lenguajes y herramientas, desde el desa
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original-wordmark.svg" alt="Atom" width="60" height="60"/><br>
   Atom Editor ❤️
-</p>  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtomMunozNava&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomMunozNava&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>  
 
 ---
