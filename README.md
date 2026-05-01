@@ -14,7 +14,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" style="background-color:white; border-radius:8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="background-color:white;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="background-color:white;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg\" alt="C++" width="50" height="50">
 </p>  
 
 ---
