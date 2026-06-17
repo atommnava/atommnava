@@ -1,6 +1,3 @@
-# Atom Alexander M. Nava  
-
----
 ## 🛠️ Tech Stack  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
