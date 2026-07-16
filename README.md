@@ -1,4 +1,4 @@
-## 🛠️ Tech Stack  
+## Tech Stack  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
@@ -18,17 +18,9 @@
 
 ---
 
-## 💻 Favourite Text Editor  
+## Favourite Text Editor  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original-wordmark.svg" alt="Atom" width="60" height="60"/><br>
 </p>  
 
----
-
-## 🌐 Let's Connect  
-
-<p align="center">
-  <a href="https://github.com/AtomMunozNava"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
